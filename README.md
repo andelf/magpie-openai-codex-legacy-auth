@@ -16,8 +16,8 @@ Provider ID 为 `openai-codex-legacy`，不会覆盖 Magpie 内置 Codex、迁�
 克隆后安装本地目录（不需要 npm install，没有运行时依赖）：
 
 ```sh
-git clone git@github.com:andelf/opencode-openai-codex-legacy-auth.git
-cd opencode-openai-codex-legacy-auth
+git clone git@github.com:andelf/magpie-openai-codex-legacy-auth.git
+cd magpie-openai-codex-legacy-auth
 magpie plugin add "$PWD"
 magpie plugin login openai-codex-legacy
 ```

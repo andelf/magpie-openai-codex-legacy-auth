@@ -1,5 +1,5 @@
 {
-  "name": "opencode-openai-codex-legacy-auth",
+  "name": "magpie-openai-codex-legacy-auth",
   "version": "0.1.0",
   "private": true,
   "type": "module",
